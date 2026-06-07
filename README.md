@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harshvardhan Singh Karki 👋</h1>
-<h3 align="center">MERN Stack Developer | AI/ML Enthusiast | Cybersecurity Learner</h3>
+<h3 align="center">MERN Stack Developer | AI/ML | Cybersecurity Learner</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshskarki&theme=radical&margin-w=15" alt="Trophies" /></a> 
