@@ -15,6 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=harshskarki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e941cc76-cc16-42d4-b995-8413460247b6" alt="Image" width="680">
+</p>
+
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🚀 About Me
