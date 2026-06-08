@@ -202,7 +202,7 @@ A movie discovery and tracking application with search, watchlists, and movie de
   <a href="https://www.credly.com/badges/32d9f703-b1ac-439d-95b1-06e6f28c5acb/public_url">
     <img src="https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Cisco Data Science" width="130">
   </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/certificates/33ba1f0a196b">
+  <a href="https://www.hackerrank.com/certificates/db44bb569218">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="130">
   </a>
 </p>
