@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Harshvardhan Singh Karki </h1>
 <h3 align="center">A passionate Intern | MERN Stack Developer from India 🇮🇳🌍</h3>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
   <img src="https://img.shields.io/badge/Next.js-React-blue" alt="Next.js Badge" />
@@ -19,7 +17,7 @@
   <img src="https://github.com/user-attachments/assets/e941cc76-cc16-42d4-b995-8413460247b6" alt="Image" width="680">
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🚀 About Me
 
@@ -39,7 +37,7 @@
 👉 <strong>Check out my work on my <a href="https://harshvardhansportfolio.vercel.app/" target="_blank">Portfolio Website</a>! 😁</strong>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🌟 Featured Projects
 
@@ -77,7 +75,7 @@ A movie discovery and tracking application with search, watchlists, and movie de
 
 🔗 Repo: https://github.com/harshskarki/Movie-Tracker-Pro
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🌐 Connect With Me
 
@@ -115,7 +113,7 @@ A movie discovery and tracking application with search, watchlists, and movie de
   </a>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🚀 Languages & Tools
 
@@ -192,7 +190,7 @@ A movie discovery and tracking application with search, watchlists, and movie de
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🏆 Certifications
 <p align="center">
@@ -207,7 +205,7 @@ A movie discovery and tracking application with search, watchlists, and movie de
   </a>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 📊 GitHub Stats
 
@@ -220,26 +218,26 @@ A movie discovery and tracking application with search, watchlists, and movie de
   <img src="https://streak-stats.demolab.com?user=harshskarki&theme=dark" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshskarki&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshskarki&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/harshskarki) 
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/23d8fb92-fe7d-40ca-9968-ae3232c91991" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/23d8fb92-fe7d-40ca-9968-ae3232c91991" />
