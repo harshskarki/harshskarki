@@ -239,3 +239,7 @@ A movie discovery and tracking application with search, watchlists, and movie de
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/harshskarki) 
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/23d8fb92-fe7d-40ca-9968-ae3232c91991" />
