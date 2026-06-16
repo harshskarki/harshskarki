@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Harshvardhan Singh Karki </h1>
 <h3 align="center">A passionate Intern | MERN Stack Developer from India 🇮🇳🌍</h3>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
   <img src="https://img.shields.io/badge/Next.js-React-blue" alt="Next.js Badge" />
@@ -9,9 +11,13 @@
   <img src="https://img.shields.io/badge/AI%2FML-Artificial_Intelligence_%26_Machine_Learning-blueviolet" alt="AI/ML Badge" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshskarki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e941cc76-cc16-42d4-b995-8413460247b6" alt="Image" width="680">
