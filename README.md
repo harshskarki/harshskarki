@@ -226,8 +226,11 @@ A movie discovery and tracking application with search, watchlists, and movie de
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshskarki&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Activity Contribution Graph
+
+  <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=harshskarki&theme=high-contrast&hide_border=true&bg_color=0A0A0A&color=FF00FF&line=00FFF7&point=39FF14&title_color=FF00FF" 
+  width="100%"/>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
