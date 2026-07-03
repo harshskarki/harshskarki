@@ -200,12 +200,6 @@ A movie discovery and tracking application with search, watchlists, and movie de
 
 ### 🏆 Certifications
 <p align="center">
-  <a href="https://www.credly.com/badges/abf99f4f-c7c7-498f-949e-5f2a620c28d1">
-    <img src="https://images.credly.com/images/a3939c8e-cb02-4341-8438-585c0d333673/AI_Foundations.png" alt="IBM AI Foundation Badge" width="130">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/32d9f703-b1ac-439d-95b1-06e6f28c5acb/public_url">
-    <img src="https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Cisco Data Science" width="130">
-  </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/certificates/db44bb569218">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="130">
   </a>
