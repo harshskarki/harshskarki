@@ -40,7 +40,7 @@
 - 🤝 Open to internships, collaborations, and software engineering opportunities
 
 <p align="center">
-👉 <strong>Check out my work on my <a href="https://harshvardhansportfolio.vercel.app/" target="_blank">Portfolio Website</a>! 😁</strong>
+👉 <strong>Check out my work on my <a href="https://harshvardhan-i17833e1y-harshskarkis-projects.vercel.app/" target="_blank">Portfolio Website</a>! 😁</strong>
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
