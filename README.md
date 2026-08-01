@@ -57,7 +57,7 @@ A full-stack web application focused on modern development practices, authentica
 ---
 
 ### 🚚 SmartRoute Logistics Management System
-A logistics platform for route optimization, shipment tracking, and efficient fleet management.
+A logistics platform for route optimization, shipment tracking, and efficient fleet management
 
 **Tech Stack:** MERN, Maps API, MongoDB
 
